@@ -44,7 +44,7 @@ To use the code in this repository, follow these steps:
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for more details.
 
 ## Contact
 
